@@ -31,7 +31,6 @@ if(tortillas == "pagar"){
 }else{
     console.log("Esperar a que te regresen tu cambio")
 }
-
 console.log("Regresar a tu casa")
 console.log("Abrir la puerta")
 console.log("Entrar a tu casa")
